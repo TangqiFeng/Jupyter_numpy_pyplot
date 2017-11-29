@@ -1,8 +1,13 @@
 # Jupyter_numpy_pyplot
-These are solutions Solutions to the [Jupyter problem sheet](https://github.com/TangqiFeng/Jupyter_numpy_pyplot/wiki/Problem-set:-Jupyter,-pyplot-and-numpy)
+
+> author: [Tangqi Feng](https://tangqifeng.github.io/)
+
+These are solutions Solutions to the [Jupyter problem sheet](https://github.com/TangqiFeng/Jupyter_numpy_pyplot/wiki/Problem-set:-Jupyter,-pyplot-and-numpy). 
+
+These problems relate to [Jupyter](https://jupyter-notebook.readthedocs.io/en/latest/examples/Notebook/Notebook%20Basics.html), [numpy](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html), and [pyplot](https://matplotlib.org/users/pyplot_tutorial.html).
 
 > Module: Emerging Technologies / 4th Year  
-> Lecturer: Dr Ian McLoughlin  
+> Lecturer: Dr [Ian McLoughlin](https://ianmcloughlin.github.io/) 
 
 ## Components
 * [Jupyter](http://jupyter.org/)(an interactive computing environment that enables users to author notebook documents that include:)
@@ -10,8 +15,10 @@ These are solutions Solutions to the [Jupyter problem sheet](https://github.com/
 * [matplotlib](https://matplotlib.org/) (a plotting library for the Python programming language and its numerical mathematics extension [NumPy](https://en.wikipedia.org/wiki/NumPy).)
 
 ## How to run?
-go to the repository folder, open the command-line interpreter or terminal(mac), type:
-``` $ jupyter notebook ```
+go to the repository folder, open the command-line interpreter or terminal(mac), 
+
+type: ``` $ jupyter notebook ```
+
 then, click *Fisher's_Iris.ipynb* on browser which opened automatically
 
 **Before you run the project, mack sure all needed components are installed:**
