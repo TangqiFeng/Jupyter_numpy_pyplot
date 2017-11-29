@@ -12,7 +12,7 @@ These problems relate to [Jupyter](https://jupyter-notebook.readthedocs.io/en/la
 ## Components
 * [Jupyter](http://jupyter.org/)(an interactive computing environment that enables users to author notebook documents that include:)
 * [numpy](http://www.numpy.org/) (a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.)
-* [matplotlib](https://matplotlib.org/) (a plotting library for the Python programming language and its numerical mathematics extension [NumPy](https://en.wikipedia.org/wiki/NumPy).)
+* [matplotlib](https://matplotlib.org/) (a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.)
 
 ## How to run?
 go to the repository folder, open the command-line interpreter or terminal(mac), 
